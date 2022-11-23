@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saidinit
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and I have experience with C#, Javascript, Python, Ruby. 
 - 💞️ I’m looking to collaborate on Unity3D
 
 <!---
